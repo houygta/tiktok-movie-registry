@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-23 17:24:28",
+  "updated_at": "2026-11-23 17:41:57",
   "licenses": {
     "TKMD-4BC2-3AB5-F83A": {
       "customer": "PEN SOKDOM",
-      "duration": "3 Days",
-      "expires": "2026-11-26",
+      "duration": "365 Days",
+      "expires": "2027-11-23",
       "status": "ACTIVE",
       "revoked": false,
       "notice": "",
