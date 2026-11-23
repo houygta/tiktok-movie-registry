@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-11-23 14:00",
+  "licenses": {
+    "TKMD-4BC2-3AB5-F83A": {
+      "status": "ACTIVE",
+      "expires": "2026-12-23",
+      "duration": "30 Days",
+      "customer": "PEN SOKDOM",
+      "revoked": false,
+      "notice": ""
+    },
+    "TKMD-65E0-487A-2789": {
+      "status": "ACTIVE",
+      "expires": "2026-12-22",
+      "duration": "30 Days",
+      "customer": "houy",
+      "revoked": false,
+      "notice": ""
+    }
+  }
+}
