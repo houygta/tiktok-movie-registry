@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.0",
+  "release_date": "2026-11-23",
+  "changelog": "Initial commercial release with 1080p batch downloading, native bypass, and multi-threaded engine.",
+  "download_url_windows": "https://github.com/houygta/HD-Tik-Tok-Moive/actions",
+  "download_url_mac": "https://github.com/houygta/HD-Tik-Tok-Moive"
+}
