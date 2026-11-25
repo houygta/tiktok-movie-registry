@@ -1,7 +1,7 @@
 {
   "latest_version": "1.1.0",
   "release_date": "2026-11-23",
-  "changelog": "New v1.1.0: Added HongGu Drama (\u7ea2\u679c\u77ed\u5267) tab with Auto CENC AES-128 decryption, independent queue, and Clear Episodes button.",
-  "download_url_windows": "https://github.com/houygta/HD-Tik-Tok-Moive/actions",
-  "download_url_mac": "https://github.com/houygta/HD-Tik-Tok-Moive"
+  "changelog": "New v1.1.0: Added HongGu Drama (\u7ea2\u679c\u77ed\u5267) tab with Auto CENC AES-128 decryption, Clear Episodes button, and Zero-Install embedded engine.",
+  "download_url_windows": "https://github.com/houygta/tiktok-movie-registry/releases/download/v1.1.0/TikTokMovieDownloader.exe",
+  "download_url_mac": "https://github.com/houygta/tiktok-movie-registry/releases/tag/v1.1.0"
 }
