@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.1",
+  "latest_version": "1.2.2",
   "release_date": "2026-11-25",
-  "changelog": "DH Tool All In One v1.2.1: Fixed HongGu 404 typo link handling & smart title fallback, guaranteed open folder path safety, and upgraded VIP Core.",
-  "download_url_windows": "https://github.com/houygta/tiktok-movie-registry/releases/download/v1.2.1/TikTokMovieDownloader.exe",
-  "download_url_mac": "https://github.com/houygta/tiktok-movie-registry/releases/tag/v1.2.1"
+  "changelog": "DH Tool All In One v1.2.2: Fixed Windows charmap Unicode encoding on HongGu VIP RPC engine, fixed callback exception closures, and safe output directory initialization.",
+  "download_url_windows": "https://github.com/houygta/tiktok-movie-registry/releases/download/v1.2.2/TikTokMovieDownloader.exe",
+  "download_url_mac": "https://github.com/houygta/tiktok-movie-registry/releases/tag/v1.2.2"
 }
