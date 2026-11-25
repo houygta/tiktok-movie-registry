@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.0",
+  "latest_version": "1.2.1",
   "release_date": "2026-11-25",
-  "changelog": "New v1.2.0: DH Tool All In One! Added DramaBox, ReelShort, ShortTV, WeTV VIP, Facebook (Profile/Reels/Live), YouTube (403 Fix/Channels/Shorts), Smart Even Video Splitter (Zero-Heat), and HongGu Temp Path Fix.",
-  "download_url_windows": "https://github.com/houygta/tiktok-movie-registry/releases/download/v1.2.0/TikTokMovieDownloader.exe",
-  "download_url_mac": "https://github.com/houygta/tiktok-movie-registry/releases/tag/v1.2.0"
+  "changelog": "DH Tool All In One v1.2.1: Fixed HongGu 404 typo link handling & smart title fallback, guaranteed open folder path safety, and upgraded VIP Core.",
+  "download_url_windows": "https://github.com/houygta/tiktok-movie-registry/releases/download/v1.2.1/TikTokMovieDownloader.exe",
+  "download_url_mac": "https://github.com/houygta/tiktok-movie-registry/releases/tag/v1.2.1"
 }
